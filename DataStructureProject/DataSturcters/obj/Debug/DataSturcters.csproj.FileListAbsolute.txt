@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataSturcters\bin\Debug\DataSturcters.dll
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataSturcters\bin\Debug\DataSturcters.pdb
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataSturcters\obj\Debug\DataSturcters.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataSturcters\obj\Debug\DataSturcters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataSturcters\obj\Debug\DataSturcters.dll
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataSturcters\obj\Debug\DataSturcters.pdb

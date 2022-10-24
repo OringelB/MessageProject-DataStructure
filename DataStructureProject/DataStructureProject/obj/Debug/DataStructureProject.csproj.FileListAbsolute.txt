@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\obj\Debug\DataStructureProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\obj\Debug\DataStructureProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\obj\Debug\DataStructureProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\bin\Debug\DataStructureProject.exe.config
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\bin\Debug\DataStructureProject.exe
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\bin\Debug\DataStructureProject.pdb
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\bin\Debug\DataSturcters.dll
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\bin\Debug\DataSturcters.pdb
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\obj\Debug\DataStructureProject.csproj.CopyComplete
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\obj\Debug\DataStructureProject.exe
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\obj\Debug\DataStructureProject.pdb
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\bin\Debug\Logic.dll
+C:\Users\User\Desktop\מכללת סלע - קורס תכנות\Data structer project\DataStructureProject\DataStructureProject\bin\Debug\Logic.pdb
